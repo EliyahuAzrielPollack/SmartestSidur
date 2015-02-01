@@ -45,7 +45,7 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		ActionBar actionBar = getActionBar();
-	//	actionBar.setBackgroundDrawable(new ColorDrawable(0xFF160203));
+	    actionBar.setBackgroundDrawable(new ColorDrawable(0xFF160203));
 
 		mTitle = mDrawerTitle = getTitle();
 
