@@ -15,7 +15,7 @@ public class FindPeopleFragment extends Fragment {
             Bundle savedInstanceState) {
  
         View rootView = inflater.inflate(R.layout.fragment_find_people, container, false);
-         ngsdjh
+ 
         return rootView;
     }
 }
